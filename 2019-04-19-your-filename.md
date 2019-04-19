@@ -1,5 +1,3 @@
-
-
 ## Block Elements
 
 ### Paragraphs & Breaks
@@ -37,7 +35,7 @@ Spaces are allowed between the hyphens, asterisks or underscores.
 
 
 
-##  Span Elements
+## Span Elements
 
 ### Links
 Markdown has two types of links: inline and reference.
@@ -54,7 +52,7 @@ which usually displays as italics in most browsers. Double asterisks (**) or dou
 
 ### code
 To create inline spans of code, simply wrap the code in backticks (`).
-Markdown will turn `myFunction` into myFunction.
+Markdown will turn \`myFunction\` into myFunction.
 
 ### Images
 Markdown image syntax looks a lot like the syntax for links;
