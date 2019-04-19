@@ -60,7 +60,7 @@ Markdown will turn `myFunction` into myFunction.
 Markdown image syntax looks a lot like the syntax for links;
 it is essentially the same syntax preceded by an exclamation point (!).
 For example, if you want to link to an image at http://github.com/unicorn.pngwith 
-the alternate text My Unicorn, you would write ![My Unicorn](http://github.com/unicorn.png).
+the alternate text My Unicorn, you would write !\[My Unicorn\]\(http://github.com/unicorn.png\).
 
 
 ## Miscellaneous
