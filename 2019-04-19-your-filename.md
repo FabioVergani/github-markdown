@@ -52,7 +52,7 @@ which usually displays as italics in most browsers. Double asterisks (**) or dou
 
 ### code
 To create inline spans of code, simply wrap the code in backticks (`).
-Markdown will turn \`myFunction\` into myFunction.
+Markdown will turn `myFunction` into myFunction.
 
 ### Images
 Markdown image syntax looks a lot like the syntax for links;
