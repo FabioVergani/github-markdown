@@ -48,9 +48,11 @@ To create a reference link, use two sets of square brackets. [my internal link][
 
 ### Emphasis
 Asterisks (*) and underscores (_) are treated as emphasis and are wrapped with an <em> tag,
-which usually displays as italics in most browsers. Double asterisks (**) or double underscores (__) are treated as bold using the <strong> tag </strong>. To create italic or bold text, simply wrap your words in single/double asterisks/underscores. For example, **My double emphasis text** becomes My double emphasis text, and *My single emphasis text* becomes My single emphasis text.
+which usually displays as italics in most browsers. Double asterisks (**) or double underscores (__) are treated as bold using the strong tag. To create italic or bold text, simply wrap your words in single/double asterisks/underscores.
+For example, **My double emphasis text** becomes My double emphasis text,
+and *My single emphasis text* becomes My single emphasis text.
 
-### code
+### Code
 To create inline spans of code, simply wrap the code in backticks (`).
 Markdown will turn `myFunction` into myFunction.
 
